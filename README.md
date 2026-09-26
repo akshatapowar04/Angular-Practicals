@@ -1,7 +1,7 @@
 # Full Stack Development - III
 
-**Student Name:** Prathamesh Anil Bhamare
-**Roll Number:** SM1101
+**Student Name:** Akshata Laxman Powar
+**Roll Number:** SM1118
 **Class/Division:** SYMSc Computer Science
 **Course/Subject:** Full Stack Development - III
 
